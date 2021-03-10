@@ -42,7 +42,7 @@ public class Program {
 				}
 			}
 			
-			
+			System.out.println("bom dia");
 			
 			sc.close();
 	}
